@@ -5,7 +5,7 @@
 </div>
 <br>
 
-Hello there! 👋 Welcome to my GitHub profile. This README will give you an overview of who I am, what I do, and the exciting projects I work on in the world of MERN (MongoDB, Express, React, Node.js) stack.
+Hello there! 👋 Welcome to my GitHub profile. Here I will give you an overview of who I am, what I do, and how you can get in touch with me. Please feel free to explore my profile! 
 
 ## Skills 🤓
 
