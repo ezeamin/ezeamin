@@ -19,7 +19,7 @@ Hello there! 👋 Welcome to my GitHub profile. Here I will give you an overview
 ### Backend Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,mysql,postgres,prisma" />
   </a>
 </p>
 
