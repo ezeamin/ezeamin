@@ -25,7 +25,7 @@ Hello there! 👋 Welcome to my GitHub profile. Here I will give you an overview
 
 ## About Me 🙋‍♂️
 
-I'm a passionate developer with a deep love for web development. My journey in the world of coding began 4 years ago, and since then, I've been exploring, learning, and building exciting applications that leverage the power of these technologies. I'm a Front-End-heavy web developer, but I also enjoy spending time with backend projects!
+I'm a passionate developer with a deep love for web development. My journey in the world of coding began 6 years ago, and since then, I've been exploring, learning, and building exciting applications that leverage the power of these technologies. I'm a Front-End-heavy web developer, but I also enjoy spending time with backend projects!
 
 ## Experience 👨🏼‍💻
 
@@ -37,9 +37,15 @@ Leading a team of frontend developers, defining standards, and documenting proce
 
 ### Mentor - Rolling Code School 🚀
 
-**Duration:** June 2022 - Present
+**Duration:** June 2022 - Aug 2024
 
 Mentoring multiple classes of 30 students each, teaching the MERN stack and guiding them in building real-world projects, from scratch. I love teaching! ❤️
+
+### Full Stack Developer & Team Lead - CIRCCLO ♻️
+
+**Duration:** Aug 2024 - Present
+
+Developing real world applications in a constantly deployment schema for a startup. Leading the team and suggesting enhances in ongoing processes. 
 
 ## Get in Touch 📬
 
