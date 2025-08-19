@@ -12,18 +12,25 @@ Hello there! 👋 Welcome to my GitHub profile. Here I will give you an overview
 ### Frontend Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,vite,react,redux,mui,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,vite,react,redux,materialui,tailwind,bootstrap,bun" />
   </a>
 </p>
 
 ### Backend Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,mysql,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express,nodejs,mongo,mysql,postgres,prisma,bun" />
   </a>
 </p>
 
-## About Me 🙋‍♂️
+### DevOps Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,github" />
+  </a>
+</p>
+
+## About Me 🙋🏻‍♂️
 
 I'm a passionate developer with a deep love for web development. My journey in the world of coding began 6 years ago, and since then, I've been exploring, learning, and building exciting applications that leverage the power of these technologies. I'm a Front-End-heavy web developer, but I also enjoy spending time with backend projects!
 
@@ -31,21 +38,21 @@ I'm a passionate developer with a deep love for web development. My journey in t
 
 ### Frontend Developer - Poder Judicial de Tucumán 🏛️
 
-**Duration:** June 2022 - Present
+**Duration:** June 2022 - Present (3+ years)
 
 Leading a team of frontend developers, defining standards, and documenting processes for React-based web applications.
 
-### Mentor - Rolling Code School 🚀
-
-**Duration:** June 2022 - Aug 2024
-
-Mentoring multiple classes of 30 students each, teaching the MERN stack and guiding them in building real-world projects, from scratch. I love teaching! ❤️
-
 ### Full Stack Developer & Team Lead - CIRCCLO ♻️
 
-**Duration:** Aug 2024 - Present
+**Duration:** Aug 2024 - Present (1 year)
 
-Developing real world applications in a constantly deployment schema for a startup. Leading the team and suggesting enhances in ongoing processes. 
+Developing real world applications in a constant deployment schema for a local startup. Leading the team, designing systems, and suggesting enhances in ongoing processes. 
+
+### Mentor - Rolling Code School 🚀
+
+**Duration:** June 2022 - Aug 2024 (2 years)
+
+Mentoring multiple classes of 30 students each, teaching the MERN stack and guiding them in building real-world projects, from scratch. I love teaching! ❤️
 
 ## Get in Touch 📬
 
